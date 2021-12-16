@@ -1,0 +1,16 @@
+C:\CursoC#\DIO\Series\Series\bin\Debug\net5.0\Series.exe
+C:\CursoC#\DIO\Series\Series\bin\Debug\net5.0\Series.deps.json
+C:\CursoC#\DIO\Series\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+C:\CursoC#\DIO\Series\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\CursoC#\DIO\Series\Series\bin\Debug\net5.0\Series.dll
+C:\CursoC#\DIO\Series\Series\bin\Debug\net5.0\ref\Series.dll
+C:\CursoC#\DIO\Series\Series\bin\Debug\net5.0\Series.pdb
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\Series.dll
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\ref\Series.dll
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\Series.pdb
+C:\CursoC#\DIO\Series\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
