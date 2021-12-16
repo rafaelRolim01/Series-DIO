@@ -51,11 +51,15 @@ namespace Series
             Console.Write("Digite o Id da Série: ");
             int idSerie = int.Parse(Console.ReadLine());
 
-            repositorio.Exclui(idSerie);
+            Console.Write("Você Tem Certeza que Quer Excluir (S/N): ");
+            char resposta = char.Parse(Console.ReadLine().ToUpper());
+            if (resposta == 'S')
+            {
+                repositorio.Exclui(idSerie);
+                var serie = repositorio.RetornaPorId(idSerie);
 
-            var serie = repositorio.RetornaPorId(idSerie);
-
-            Console.WriteLine(serie);
+                 Console.WriteLine(serie);
+            }
         }
 
         private static void VisualizarSerie()
